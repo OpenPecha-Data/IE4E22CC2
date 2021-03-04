@@ -1,16 +1,17 @@
-id: opecha:P000547
+id: P000547
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W942
   title: དགེ་ལྡན་ལེགས་བཤད་པདྨ་དཀར་པོའི་ཆུན་པོའི་ཆུན་པོའི་འགྲེལ་པ་ཉི་མའི་འོད་ཟེར།
-  volume:
+  author: ''
+  volumes:
     b7f4c3ecab314953868de4380627070a:
       image_group_id: I1KG14819
       title: Volume 1 of dge ldan legs bshad pad+ma dkar po'i chun po'i chun po'i
         'grel pa nyi ma'i 'od zer/
       volume_number: 1
       total_pages: 196
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དགེ་ལྡན་ལེགས་བཤད་པདྨ་དཀར་པོའི་ཆུན་པོའི་ཆུན་པོའི་འགྲེལ་པ་ཉི་མའི་འོད་ཟེར།
   author: ''
