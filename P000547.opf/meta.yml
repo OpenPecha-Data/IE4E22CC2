@@ -1,5 +1,7 @@
 id: P000547
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W942
   title: དགེ་ལྡན་ལེགས་བཤད་པདྨ་དཀར་པོའི་ཆུན་པོའི་ཆུན་པོའི་འགྲེལ་པ་ཉི་མའི་འོད་ཟེར།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 196
       base_file: v001.txt
-ebook_metadata:
-  title: དགེ་ལྡན་ལེགས་བཤད་པདྨ་དཀར་པོའི་ཆུན་པོའི་ཆུན་པོའི་འགྲེལ་པ་ཉི་མའི་འོད་ཟེར།
-  author: ''
-  sku: P000547
-  cover: cover.jpg
-  layers:
-  - pagination
